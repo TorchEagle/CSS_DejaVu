@@ -1,0 +1,75 @@
+html {
+    background-color: rgb(209, 209, 209);
+    font-family: sans-serif;
+}
+
+header {
+    margin: -8px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    margin: 0%;
+    padding: 10px;
+    text-align: right;
+}
+
+h2 {
+    background-color: gray;
+    color: white;
+    letter-spacing: 5px;
+    text-align: center;
+    margin: auto;
+    margin-top: 26px;
+    padding: 5px;
+    width: 250px;
+    font-size: 200%;
+}
+
+h3 {
+    text-align: justify;
+    font-size: 24px;
+    width: 60vw;
+    margin: auto;
+    margin-top: 15px;
+    border-bottom: 5px solid white;
+}
+
+p {
+    text-align: justify;
+    width: 60vw;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+strong {
+    font-variant: small-caps;
+}
+
+span.posicion {
+    background-color: white;
+    color: red;
+}
+
+span.lugar {
+    color: blue;
+}
+
+span.importante {
+    border-bottom: 1px dashed red;
+    font-family: serif;
+    font-size: 150%;
+}
+
+hr {
+
+    background-color: black;
+    height: 2px;
+    width: 60vw;
+}
+
+hr.uno {
+    margin-top: 40px;
+}
